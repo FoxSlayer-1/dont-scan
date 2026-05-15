@@ -1,0 +1,30 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+  <title>Please Don't Scan</title>  
+  
+  <style>  
+    body {  
+      background: black;  
+      color: white;  
+      display: flex;  
+      justify-content: center;  
+      align-items: center;  
+      height: 100vh;  
+      margin: 0;  
+      font-family: Arial, sans-serif;  
+      text-align: center;  
+    }  
+  
+    h1 {  
+      font-size: 5rem;  
+    }  
+  </style>  
+</head>  
+  
+<body>  
+  <h1 id="answer">Loading...</h1>  
+  
+  <script src="answer.js"></script>  
+</body>  
+</html>  
